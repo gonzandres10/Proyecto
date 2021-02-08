@@ -1,0 +1,40 @@
+nav {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	z-index: 1;
+	font-size: 200%;
+	background-color: darkcyan;
+}
+a {
+	padding: 10px 30px;
+	text-decoration: none;
+	color: blanchedalmond;
+
+	font-family: Musetta;
+	font-size: 100%;
+	transition: background-color 3s;
+}
+a:hover {
+	background-color: darkblue;
+}
+nav {
+	width: 100%;
+}
+.wrapper {
+	margin: 0 auto;
+}
+body {
+	background-color: red;
+}
+.welcome {
+	width: 100%;
+	position: relative;
+	top: -80px;
+	z-index: -1;
+}
+
+header {
+	position: relative;
+	top: 0;
+}
