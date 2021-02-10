@@ -1,5 +1,3 @@
 # Proyecto
 
-Una prueba de texto
-
-Git Molagit add 
+Proyecto sobre mi trayecto como dieñador gráfico
