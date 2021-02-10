@@ -1,3 +1,3 @@
 # Proyecto
 
-Proyecto sobre mi trayecto como dieñador gráfico
+Proyecto sobre mi trayecto como Diseñador Gráfico
